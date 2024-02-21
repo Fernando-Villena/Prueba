@@ -1,7 +1,7 @@
 
 # Prueba parte 1
 
-Para iniciar este poryecto debes posicionarte en la carpeta PRUEBA o abrirla directamente en VSCode y realizar los siguientes comandos:
+Para iniciar este proyecto debes posicionarte en la carpeta PRUEBA o abrirla directamente en VSCode y realizar los siguientes comandos:
 
 
 
